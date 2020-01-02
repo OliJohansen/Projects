@@ -5,7 +5,7 @@ This repository contains my work in different areas of programming. The aim is t
 - My work in subjects, such as an introductory class in Machine Learning and Aritificial Intelligence.
 - Side-projects in areas I find interesting.
 
-### How Can I be Contacted?
+### Contact Me:
 Email Address: olivatjohansen@gmail.com
 
 
