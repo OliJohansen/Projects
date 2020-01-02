@@ -19,3 +19,4 @@ I will always try to document what I do thoroughly. If anything you see here is 
 Email Address: olivatjohansen@gmail.com
 
 
+                                                                                                 Last updated: 2. January, 2020
